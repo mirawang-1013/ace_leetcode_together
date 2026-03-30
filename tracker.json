@@ -1,0 +1,1860 @@
+{
+  "version": 1,
+  "problems": {
+    "1": {
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "category": "Arrays & Hashing",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-18",
+      "note_file": "1 & 167 & 15 - Two Sum Three Sum 系列.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "217": {
+      "title": "Contains Duplicate",
+      "difficulty": "Easy",
+      "category": "Arrays & Hashing",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-18",
+      "note_file": null,
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "242": {
+      "title": "Valid Anagram",
+      "difficulty": "Easy",
+      "category": "Arrays & Hashing",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-18",
+      "note_file": null,
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "49": {
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "category": "Arrays & Hashing",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-18",
+      "note_file": "49 - Group Anagrams.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "347": {
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium",
+      "category": "Arrays & Hashing",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-18",
+      "note_file": "347 - Top K Frequent Elements.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "238": {
+      "title": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "category": "Arrays & Hashing",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-20",
+      "note_file": "238 - Product of Array Except Self.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "271": {
+      "title": "Encode and Decode Strings",
+      "difficulty": "Medium",
+      "category": "Arrays & Hashing",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-21",
+      "note_file": "271 - Encode and Decode Strings.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "128": {
+      "title": "Longest Consecutive Sequence",
+      "difficulty": "Medium",
+      "category": "Arrays & Hashing",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-18",
+      "note_file": "128 - Longest Consecutive Sequence.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "36": {
+      "title": "Valid Sudoku",
+      "difficulty": "Medium",
+      "category": "Arrays & Hashing",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "659": {
+      "title": "Encode and Decode Strings",
+      "difficulty": "Medium",
+      "category": "Arrays & Hashing",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "125": {
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "category": "Two Pointers",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-21",
+      "note_file": null,
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "167": {
+      "title": "Two Sum II",
+      "difficulty": "Medium",
+      "category": "Two Pointers",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-21",
+      "note_file": "1 & 167 & 15 - Two Sum Three Sum 系列.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "15": {
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "category": "Two Pointers",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-21",
+      "note_file": "1 & 167 & 15 - Two Sum Three Sum 系列.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "11": {
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "category": "Two Pointers",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-21",
+      "note_file": null,
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "42": {
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "category": "Two Pointers",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-21",
+      "note_file": "42 - Trapping Rain Water.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "20": {
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "category": "Stack",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-22",
+      "note_file": null,
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "155": {
+      "title": "Min Stack",
+      "difficulty": "Medium",
+      "category": "Stack",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-22",
+      "note_file": "155 - Min Stack.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "150": {
+      "title": "Evaluate Reverse Polish Notation",
+      "difficulty": "Medium",
+      "category": "Stack",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-25",
+      "note_file": "150 - Evaluate Reverse Polish Notation.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "84": {
+      "title": "Largest Rectangle in Histogram",
+      "difficulty": "Hard",
+      "category": "Stack",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-25",
+      "note_file": "84 - Largest Rectangle in Histogram.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "704": {
+      "title": "Binary Search",
+      "difficulty": "Easy",
+      "category": "Binary Search",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-25",
+      "note_file": "704 - Binary Search.md",
+      "review": {
+        "confidence": 4,
+        "ease_factor": 2.5,
+        "interval_days": 1,
+        "next_review": "2026-03-31",
+        "review_count": 1,
+        "last_reviewed": "2026-03-30",
+        "history": [
+          {
+            "date": "2026-03-30",
+            "confidence": 4
+          }
+        ]
+      }
+    },
+    "153": {
+      "title": "Find Minimum in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "category": "Binary Search",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-25",
+      "note_file": null,
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "33": {
+      "title": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "category": "Binary Search",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-25",
+      "note_file": null,
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "4": {
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "category": "Binary Search",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "121": {
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "category": "Sliding Window",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-26",
+      "note_file": null,
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "3": {
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "category": "Sliding Window",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-19",
+      "note_file": "3 - Longest Substring Without Repeating Characters.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "424": {
+      "title": "Longest Repeating Character Replacement",
+      "difficulty": "Medium",
+      "category": "Sliding Window",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-27",
+      "note_file": null,
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "567": {
+      "title": "Permutation in String",
+      "difficulty": "Medium",
+      "category": "Sliding Window",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-28",
+      "note_file": null,
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "76": {
+      "title": "Minimum Window Substring",
+      "difficulty": "Hard",
+      "category": "Sliding Window",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-28",
+      "note_file": "76 - Minimum Window Substring.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "206": {
+      "title": "Reverse Linked List",
+      "difficulty": "Easy",
+      "category": "Linked List",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-28",
+      "note_file": null,
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "21": {
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "category": "Linked List",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-29",
+      "note_file": "21 - Merge Two Sorted Lists.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "141": {
+      "title": "Linked List Cycle",
+      "difficulty": "Easy",
+      "category": "Linked List",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-29",
+      "note_file": null,
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "143": {
+      "title": "Reorder List",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-29",
+      "note_file": "143 - Reorder List.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "19": {
+      "title": "Remove Nth Node From End of List",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-29",
+      "note_file": "19 - Remove Nth Node From End of List.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "138": {
+      "title": "Copy List with Random Pointer",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "2": {
+      "title": "Add Two Numbers",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "287": {
+      "title": "Find the Duplicate Number",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "23": {
+      "title": "Merge K Sorted Lists",
+      "difficulty": "Hard",
+      "category": "Linked List",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "25": {
+      "title": "Reverse Nodes in k-Group",
+      "difficulty": "Hard",
+      "category": "Linked List",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "226": {
+      "title": "Invert Binary Tree",
+      "difficulty": "Easy",
+      "category": "Binary Trees",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "104": {
+      "title": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "category": "Binary Trees",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "543": {
+      "title": "Diameter of Binary Tree",
+      "difficulty": "Easy",
+      "category": "Binary Trees",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "110": {
+      "title": "Balanced Binary Tree",
+      "difficulty": "Easy",
+      "category": "Binary Trees",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "100": {
+      "title": "Same Tree",
+      "difficulty": "Easy",
+      "category": "Binary Trees",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "572": {
+      "title": "Subtree of Another Tree",
+      "difficulty": "Easy",
+      "category": "Binary Trees",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "235": {
+      "title": "Lowest Common Ancestor of a BST",
+      "difficulty": "Medium",
+      "category": "Binary Trees",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "102": {
+      "title": "Binary Tree Level Order Traversal",
+      "difficulty": "Medium",
+      "category": "Binary Trees",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "199": {
+      "title": "Binary Tree Right Side View",
+      "difficulty": "Medium",
+      "category": "Binary Trees",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "98": {
+      "title": "Validate Binary Search Tree",
+      "difficulty": "Medium",
+      "category": "Binary Trees",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "230": {
+      "title": "Kth Smallest Element in a BST",
+      "difficulty": "Medium",
+      "category": "Binary Trees",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "105": {
+      "title": "Construct Binary Tree from Preorder and Inorder",
+      "difficulty": "Medium",
+      "category": "Binary Trees",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "124": {
+      "title": "Binary Tree Maximum Path Sum",
+      "difficulty": "Hard",
+      "category": "Binary Trees",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "297": {
+      "title": "Serialize and Deserialize Binary Tree",
+      "difficulty": "Hard",
+      "category": "Binary Trees",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "208": {
+      "title": "Implement Trie (Prefix Tree)",
+      "difficulty": "Medium",
+      "category": "Tries",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "211": {
+      "title": "Design Add and Search Words Data Structure",
+      "difficulty": "Medium",
+      "category": "Tries",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "212": {
+      "title": "Word Search II",
+      "difficulty": "Hard",
+      "category": "Tries",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "200": {
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "category": "Graphs",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "133": {
+      "title": "Clone Graph",
+      "difficulty": "Medium",
+      "category": "Graphs",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "695": {
+      "title": "Max Area of Island",
+      "difficulty": "Medium",
+      "category": "Graphs",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "994": {
+      "title": "Rotting Oranges",
+      "difficulty": "Medium",
+      "category": "Graphs",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "417": {
+      "title": "Pacific Atlantic Water Flow",
+      "difficulty": "Medium",
+      "category": "Graphs",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "207": {
+      "title": "Course Schedule",
+      "difficulty": "Medium",
+      "category": "Graphs",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "210": {
+      "title": "Course Schedule II",
+      "difficulty": "Medium",
+      "category": "Graphs",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "323": {
+      "title": "Number of Connected Components",
+      "difficulty": "Medium",
+      "category": "Graphs",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "261": {
+      "title": "Graph Valid Tree",
+      "difficulty": "Medium",
+      "category": "Graphs",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "269": {
+      "title": "Alien Dictionary",
+      "difficulty": "Hard",
+      "category": "Graphs",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "703": {
+      "title": "Kth Largest Element in a Stream",
+      "difficulty": "Easy",
+      "category": "Heap / Priority Queue",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "215": {
+      "title": "Kth Largest Element in an Array",
+      "difficulty": "Medium",
+      "category": "Heap / Priority Queue",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "621": {
+      "title": "Task Scheduler",
+      "difficulty": "Medium",
+      "category": "Heap / Priority Queue",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "355": {
+      "title": "Design Twitter",
+      "difficulty": "Medium",
+      "category": "Heap / Priority Queue",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "295": {
+      "title": "Find Median from Data Stream",
+      "difficulty": "Hard",
+      "category": "Heap / Priority Queue",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "70": {
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "category": "1-D Dynamic Programming",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "746": {
+      "title": "Min Cost Climbing Stairs",
+      "difficulty": "Easy",
+      "category": "1-D Dynamic Programming",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "198": {
+      "title": "House Robber",
+      "difficulty": "Medium",
+      "category": "1-D Dynamic Programming",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "213": {
+      "title": "House Robber II",
+      "difficulty": "Medium",
+      "category": "1-D Dynamic Programming",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "5": {
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "category": "1-D Dynamic Programming",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": true,
+      "finish_date": "2026-03-19",
+      "note_file": "5 - Longest Palindromic Substring.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
+    },
+    "647": {
+      "title": "Palindromic Substrings",
+      "difficulty": "Medium",
+      "category": "1-D Dynamic Programming",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "91": {
+      "title": "Decode Ways",
+      "difficulty": "Medium",
+      "category": "1-D Dynamic Programming",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "322": {
+      "title": "Coin Change",
+      "difficulty": "Medium",
+      "category": "1-D Dynamic Programming",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "152": {
+      "title": "Maximum Product Subarray",
+      "difficulty": "Medium",
+      "category": "1-D Dynamic Programming",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "139": {
+      "title": "Word Break",
+      "difficulty": "Medium",
+      "category": "1-D Dynamic Programming",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "300": {
+      "title": "Longest Increasing Subsequence",
+      "difficulty": "Medium",
+      "category": "1-D Dynamic Programming",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "416": {
+      "title": "Partition Equal Subset Sum",
+      "difficulty": "Medium",
+      "category": "1-D Dynamic Programming",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "62": {
+      "title": "Unique Paths",
+      "difficulty": "Medium",
+      "category": "2-D Dynamic Programming",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "1143": {
+      "title": "Longest Common Subsequence",
+      "difficulty": "Medium",
+      "category": "2-D Dynamic Programming",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "309": {
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "difficulty": "Medium",
+      "category": "2-D Dynamic Programming",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "518": {
+      "title": "Coin Change II",
+      "difficulty": "Medium",
+      "category": "2-D Dynamic Programming",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "494": {
+      "title": "Target Sum",
+      "difficulty": "Medium",
+      "category": "2-D Dynamic Programming",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "97": {
+      "title": "Interleaving String",
+      "difficulty": "Medium",
+      "category": "2-D Dynamic Programming",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "72": {
+      "title": "Edit Distance",
+      "difficulty": "Medium",
+      "category": "2-D Dynamic Programming",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "10": {
+      "title": "Regular Expression Matching",
+      "difficulty": "Hard",
+      "category": "2-D Dynamic Programming",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "53": {
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "category": "Greedy",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "55": {
+      "title": "Jump Game",
+      "difficulty": "Medium",
+      "category": "Greedy",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "45": {
+      "title": "Jump Game II",
+      "difficulty": "Medium",
+      "category": "Greedy",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "134": {
+      "title": "Gas Station",
+      "difficulty": "Medium",
+      "category": "Greedy",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "846": {
+      "title": "Hand of Straights",
+      "difficulty": "Medium",
+      "category": "Greedy",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "57": {
+      "title": "Insert Interval",
+      "difficulty": "Medium",
+      "category": "Intervals",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "56": {
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "category": "Intervals",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "435": {
+      "title": "Non-overlapping Intervals",
+      "difficulty": "Medium",
+      "category": "Intervals",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "252": {
+      "title": "Meeting Rooms",
+      "difficulty": "Easy",
+      "category": "Intervals",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "253": {
+      "title": "Meeting Rooms II",
+      "difficulty": "Medium",
+      "category": "Intervals",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "48": {
+      "title": "Rotate Image",
+      "difficulty": "Medium",
+      "category": "Math & Geometry",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "54": {
+      "title": "Spiral Matrix",
+      "difficulty": "Medium",
+      "category": "Math & Geometry",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "73": {
+      "title": "Set Matrix Zeroes",
+      "difficulty": "Medium",
+      "category": "Math & Geometry",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "202": {
+      "title": "Happy Number",
+      "difficulty": "Easy",
+      "category": "Math & Geometry",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "66": {
+      "title": "Plus One",
+      "difficulty": "Easy",
+      "category": "Math & Geometry",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "50": {
+      "title": "Pow(x, n)",
+      "difficulty": "Medium",
+      "category": "Math & Geometry",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "43": {
+      "title": "Multiply Strings",
+      "difficulty": "Medium",
+      "category": "Math & Geometry",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "191": {
+      "title": "Number of 1 Bits",
+      "difficulty": "Easy",
+      "category": "Bit Manipulation",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "338": {
+      "title": "Counting Bits",
+      "difficulty": "Easy",
+      "category": "Bit Manipulation",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "190": {
+      "title": "Reverse Bits",
+      "difficulty": "Easy",
+      "category": "Bit Manipulation",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "268": {
+      "title": "Missing Number",
+      "difficulty": "Easy",
+      "category": "Bit Manipulation",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "371": {
+      "title": "Sum of Two Integers",
+      "difficulty": "Medium",
+      "category": "Bit Manipulation",
+      "lists": [
+        "Blind 75"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "7": {
+      "title": "Reverse Integer",
+      "difficulty": "Medium",
+      "category": "Bit Manipulation",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "78": {
+      "title": "Subsets",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "39": {
+      "title": "Combination Sum",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "46": {
+      "title": "Permutations",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "90": {
+      "title": "Subsets II",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "40": {
+      "title": "Combination Sum II",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "79": {
+      "title": "Word Search",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "lists": [
+        "Blind 75",
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "131": {
+      "title": "Palindrome Partitioning",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "17": {
+      "title": "Letter Combinations of a Phone Number",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    },
+    "51": {
+      "title": "N-Queens",
+      "difficulty": "Hard",
+      "category": "Backtracking",
+      "lists": [
+        "Top 100"
+      ],
+      "finished": false,
+      "finish_date": null,
+      "note_file": null,
+      "review": null
+    }
+  },
+  "categories": {
+    "Arrays & Hashing": {
+      "phase": 1,
+      "description": "Core skill: Using hash maps/sets for O(1) lookups to replace nested loops."
+    },
+    "Two Pointers": {
+      "phase": 1,
+      "description": "Core skill: Converging/diverging pointers to avoid O(n²) pair checks."
+    },
+    "Stack": {
+      "phase": 1,
+      "description": "Core skill: LIFO processing for matching/nesting problems."
+    },
+    "Binary Search": {
+      "phase": 2,
+      "description": "Core skill: Halving search space on sorted/monotonic data."
+    },
+    "Sliding Window": {
+      "phase": 2,
+      "description": "Core skill: Maintaining a window to avoid recalculating subarrays."
+    },
+    "Linked List": {
+      "phase": 3,
+      "description": "Core skill: Pointer manipulation, fast/slow pointers, dummy nodes."
+    },
+    "Binary Trees": {
+      "phase": 4,
+      "description": "Core skill: Recursion, DFS, BFS traversals."
+    },
+    "Tries": {
+      "phase": 4,
+      "description": "Core skill: Prefix-based search and storage."
+    },
+    "Graphs": {
+      "phase": 5,
+      "description": "Core skill: DFS, BFS, Union-Find, topological sort."
+    },
+    "Heap / Priority Queue": {
+      "phase": 5,
+      "description": "Core skill: Efficient min/max tracking."
+    },
+    "1-D Dynamic Programming": {
+      "phase": 6,
+      "description": "Core skill: State transitions, memoization, tabulation."
+    },
+    "2-D Dynamic Programming": {
+      "phase": 6,
+      "description": "Core skill: Multi-dimensional state transitions."
+    },
+    "Greedy": {
+      "phase": 7,
+      "description": "Core skill: Local optimal → global optimal."
+    },
+    "Intervals": {
+      "phase": 7,
+      "description": "Core skill: Sort by start/end, merge overlapping."
+    },
+    "Math & Geometry": {
+      "phase": 7,
+      "description": "Core skill: Matrix manipulation, bit tricks."
+    },
+    "Bit Manipulation": {
+      "phase": 7,
+      "description": "Core skill: XOR, AND, OR, shift operations."
+    },
+    "Backtracking": {
+      "phase": 7,
+      "description": "Core skill: Explore all paths, prune invalid branches."
+    }
+  },
+  "custom_groups": {
+    "Two Sum Three Sum 系列": {
+      "problem_ids": [
+        "1",
+        "167",
+        "15"
+      ],
+      "note_file": "1 & 167 & 15 - Two Sum Three Sum 系列.md"
+    },
+    "Monotonic Stack": {
+      "problem_ids": [
+        "84",
+        "42"
+      ],
+      "note_file": null
+    }
+  },
+  "git": {
+    "initialized": false,
+    "remote_url": null
+  }
+}
