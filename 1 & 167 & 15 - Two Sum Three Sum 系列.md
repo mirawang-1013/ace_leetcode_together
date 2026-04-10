@@ -39,6 +39,12 @@ class Solution:
             seen[num] = i# 存入{值：index}
 ```
 
+### ⚠️ 常犯错误
+
+1. **一定要用 `enumerate()`** — 需要同时拿 index 和 value，`for i in range()` 再 `nums[i]` 也行但不够 Pythonic
+2. **`if x in dict` 查的是 key** — 字典的 `in` 是 O(1) 查 key，不是查 value。所以存成 `{值: 下标}` 才能用 `if diff in seen` 快速查配对
+3. **字典查找 O(1) 是关键** — `if gap in nums[i+1:]` 是 O(n) 线性扫描，整体变 O(n²)。用字典后内层变 O(1)，总体 O(n) × O(1) = O(n)
+
 ---
 
 ## 167. Two Sum II — 双指针

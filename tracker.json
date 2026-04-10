@@ -13,13 +13,18 @@
       "finish_date": "2026-03-18",
       "note_file": "1 & 167 & 15 - Two Sum Three Sum 系列.md",
       "review": {
-        "confidence": 0,
+        "confidence": 4,
         "ease_factor": 2.5,
-        "interval_days": 0,
-        "next_review": "2026-03-31",
-        "review_count": 0,
-        "last_reviewed": null,
-        "history": []
+        "interval_days": 1,
+        "next_review": "2026-04-05",
+        "review_count": 1,
+        "last_reviewed": "2026-04-04",
+        "history": [
+          {
+            "date": "2026-04-04",
+            "confidence": 4
+          }
+        ]
       }
     },
     "217": {
@@ -33,13 +38,18 @@
       "finish_date": "2026-03-18",
       "note_file": null,
       "review": {
-        "confidence": 0,
+        "confidence": 5,
         "ease_factor": 2.5,
-        "interval_days": 0,
-        "next_review": "2026-03-31",
-        "review_count": 0,
-        "last_reviewed": null,
-        "history": []
+        "interval_days": 1,
+        "next_review": "2026-04-05",
+        "review_count": 1,
+        "last_reviewed": "2026-04-04",
+        "history": [
+          {
+            "date": "2026-04-04",
+            "confidence": 5
+          }
+        ]
       }
     },
     "242": {
@@ -51,15 +61,24 @@
       ],
       "finished": true,
       "finish_date": "2026-03-18",
-      "note_file": null,
+      "note_file": "242 - Valid Anagram.md",
       "review": {
-        "confidence": 0,
+        "confidence": 5,
         "ease_factor": 2.5,
-        "interval_days": 0,
-        "next_review": "2026-03-31",
-        "review_count": 0,
-        "last_reviewed": null,
-        "history": []
+        "interval_days": 3,
+        "next_review": "2026-04-11",
+        "review_count": 2,
+        "last_reviewed": "2026-04-08",
+        "history": [
+          {
+            "date": "2026-04-06",
+            "confidence": 4
+          },
+          {
+            "date": "2026-04-08",
+            "confidence": 5
+          }
+        ]
       }
     },
     "49": {
@@ -74,13 +93,18 @@
       "finish_date": "2026-03-18",
       "note_file": "49 - Group Anagrams.md",
       "review": {
-        "confidence": 0,
-        "ease_factor": 2.5,
-        "interval_days": 0,
-        "next_review": "2026-03-31",
-        "review_count": 0,
-        "last_reviewed": null,
-        "history": []
+        "confidence": 3,
+        "ease_factor": 2.3600000000000003,
+        "interval_days": 1,
+        "next_review": "2026-04-02",
+        "review_count": 1,
+        "last_reviewed": "2026-04-01",
+        "history": [
+          {
+            "date": "2026-04-01",
+            "confidence": 3
+          }
+        ]
       }
     },
     "347": {
@@ -95,13 +119,22 @@
       "finish_date": "2026-03-18",
       "note_file": "347 - Top K Frequent Elements.md",
       "review": {
-        "confidence": 0,
+        "confidence": 5,
         "ease_factor": 2.5,
-        "interval_days": 0,
-        "next_review": "2026-03-31",
-        "review_count": 0,
-        "last_reviewed": null,
-        "history": []
+        "interval_days": 3,
+        "next_review": "2026-04-11",
+        "review_count": 2,
+        "last_reviewed": "2026-04-08",
+        "history": [
+          {
+            "date": "2026-04-06",
+            "confidence": 4
+          },
+          {
+            "date": "2026-04-08",
+            "confidence": 5
+          }
+        ]
       }
     },
     "238": {
@@ -175,8 +208,25 @@
       ],
       "finished": false,
       "finish_date": null,
-      "note_file": null,
-      "review": null
+      "note_file": "36 - Valid Sudoku.md",
+      "review": {
+        "confidence": 3,
+        "ease_factor": 2.3600000000000003,
+        "interval_days": 3,
+        "next_review": "2026-04-11",
+        "review_count": 2,
+        "last_reviewed": "2026-04-08",
+        "history": [
+          {
+            "date": "2026-04-06",
+            "confidence": 4
+          },
+          {
+            "date": "2026-04-08",
+            "confidence": 3
+          }
+        ]
+      }
     },
     "659": {
       "title": "Encode and Decode Strings",
@@ -386,13 +436,17 @@
       "review": {
         "confidence": 4,
         "ease_factor": 2.5,
-        "interval_days": 1,
-        "next_review": "2026-03-31",
-        "review_count": 1,
-        "last_reviewed": "2026-03-30",
+        "interval_days": 3,
+        "next_review": "2026-04-05",
+        "review_count": 2,
+        "last_reviewed": "2026-04-02",
         "history": [
           {
             "date": "2026-03-30",
+            "confidence": 4
+          },
+          {
+            "date": "2026-04-02",
             "confidence": 4
           }
         ]
@@ -677,10 +731,18 @@
       "lists": [
         "Top 100"
       ],
-      "finished": false,
-      "finish_date": null,
-      "note_file": null,
-      "review": null
+      "finished": true,
+      "finish_date": "2026-03-30",
+      "note_file": "2 - Add Two Numbers.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-03-31",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
     },
     "287": {
       "title": "Find the Duplicate Number",
@@ -727,10 +789,27 @@
         "Blind 75",
         "Top 100"
       ],
-      "finished": false,
+      "finished": true,
       "finish_date": null,
-      "note_file": null,
-      "review": null
+      "note_file": "226 - Invert Binary Tree.md",
+      "review": {
+        "confidence": 5,
+        "ease_factor": 2.4600000000000004,
+        "interval_days": 3,
+        "next_review": "2026-04-11",
+        "review_count": 2,
+        "last_reviewed": "2026-04-08",
+        "history": [
+          {
+            "date": "2026-04-06",
+            "confidence": 3
+          },
+          {
+            "date": "2026-04-08",
+            "confidence": 5
+          }
+        ]
+      }
     },
     "104": {
       "title": "Maximum Depth of Binary Tree",
@@ -740,10 +819,27 @@
         "Blind 75",
         "Top 100"
       ],
-      "finished": false,
+      "finished": true,
       "finish_date": null,
-      "note_file": null,
-      "review": null
+      "note_file": "104 - Maximum Depth of Binary Tree.md",
+      "review": {
+        "confidence": 4,
+        "ease_factor": 2.3600000000000003,
+        "interval_days": 3,
+        "next_review": "2026-04-11",
+        "review_count": 2,
+        "last_reviewed": "2026-04-08",
+        "history": [
+          {
+            "date": "2026-04-06",
+            "confidence": 3
+          },
+          {
+            "date": "2026-04-08",
+            "confidence": 4
+          }
+        ]
+      }
     },
     "543": {
       "title": "Diameter of Binary Tree",
@@ -840,8 +936,16 @@
       ],
       "finished": false,
       "finish_date": null,
-      "note_file": null,
-      "review": null
+      "note_file": "98 - Validate Binary Search Tree.md",
+      "review": {
+        "confidence": 0,
+        "ease_factor": 2.5,
+        "interval_days": 0,
+        "next_review": "2026-04-11",
+        "review_count": 0,
+        "last_reviewed": null,
+        "history": []
+      }
     },
     "230": {
       "title": "Kth Smallest Element in a BST",
@@ -1854,7 +1958,7 @@
     }
   },
   "git": {
-    "initialized": false,
-    "remote_url": null
+    "initialized": true,
+    "remote_url": "https://github.com/mirawang-1013/ace_leetcode_together.git"
   }
 }

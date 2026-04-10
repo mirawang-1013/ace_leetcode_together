@@ -27,8 +27,8 @@ The recommended order goes from foundational patterns to advanced topics. Master
 - [x] 143 Reorder List (M)
 - [x] 19 Remove Nth Node From End of List (M)
 - [ ] 23 Merge K Sorted Lists (H)
-- [ ] 226 Invert Binary Tree (E)
-- [ ] 104 Maximum Depth of Binary Tree (E)
+- [x] 226 Invert Binary Tree (E)
+- [x] 104 Maximum Depth of Binary Tree (E)
 - [ ] 100 Same Tree (E)
 - [ ] 572 Subtree of Another Tree (E)
 
@@ -94,7 +94,7 @@ The recommended order goes from foundational patterns to advanced topics. Master
 | 217 | Contains Duplicate               | Easy       | Blind 75           | ✅      | 3.18 |        |
 | 242 | Valid Anagram                    | Easy       | Blind 75           | ✅      | 3.18 |        |
 | 49  | Group Anagrams                   | Medium     | Blind 75 / Top 100 | ✅      | 3.18 |        |
-| 347 | Top K Frequent Elements          | Medium     | Blind 75 / Top 100 | ✅      | 3.18 |        |
+| 347 | Top K Frequent Elements          | Medium     | Blind 75 / Top 100 | ✅      | 3.18 | ✅      |
 | 238 | Product of Array Except Self     | Medium     | Blind 75 / Top 100 | ✅      | 3.20 |        |
 | 271 | Encode and Decode Strings        | Medium     | Blind 75 (Premium) | ✅      | 3.21 |        |
 | 128 | [[Longest Consecutive Sequence]] | Medium     | Blind 75 / Top 100 | ✅      | 3.18 |        |
@@ -191,7 +191,7 @@ class Solution:
 | 143 | Reorder List                     | Medium     | Blind 75           | ✅ 用数组做的               | 3.29 |
 | 19  | Remove Nth Node From End of List | Medium     | Blind 75 / Top 100 | ✅ 很灵的写法               | 3.29 |
 | 138 | Copy List with Random Pointer    | Medium     | Top 100            |                       |      |
-| 2   | Add Two Numbers                  | Medium     | Top 100            |                       |      |
+| 2   | Add Two Numbers                  | Medium     | Top 100            | ✅ 学到挺多                | 3.30 |
 | 287 | Find the Duplicate Number        | Medium     | Top 100            |                       |      |
 | 23  | Merge K Sorted Lists             | Hard       | Blind 75 / Top 100 |                       |      |
 | 25  | Reverse Nodes in k-Group         | Hard       | Top 100            |                       |      |
@@ -205,8 +205,8 @@ class Solution:
 
 | #   | Problem                                         | Difficulty | List               | Finish | Date |
 | --- | ----------------------------------------------- | ---------- | ------------------ | ------ | ---- |
-| 226 | Invert Binary Tree                              | Easy       | Blind 75 / Top 100 |        |      |
-| 104 | Maximum Depth of Binary Tree                    | Easy       | Blind 75 / Top 100 |        |      |
+| 226 | Invert Binary Tree                              | Easy       | Blind 75 / Top 100 | ✅      | 4/6  |
+| 104 | Maximum Depth of Binary Tree                    | Easy       | Blind 75 / Top 100 | ✅      | 4/6  |
 | 543 | Diameter of Binary Tree                         | Easy       | Top 100            |        |      |
 | 110 | Balanced Binary Tree                            | Easy       | Top 100            |        |      |
 | 100 | Same Tree                                       | Easy       | Blind 75           |        |      |

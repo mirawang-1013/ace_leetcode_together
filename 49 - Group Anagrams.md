@@ -88,3 +88,5 @@ list(group.values()) # [["eat","tea","ate"], ["tan","nat"]]               → ac
 ```
 
 The return type expects `List[List[str]]`, so `list()` converts the view into a proper list for type correctness.
+
+![[Pasted image 20260401114019.png]]
